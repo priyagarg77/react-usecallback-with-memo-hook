@@ -1,3 +1,3 @@
 # react-usecallback-with-memo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-xmap92)
+Usage of useCallback hook to increase performance optimization with memo
